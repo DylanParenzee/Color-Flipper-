@@ -1,6 +1,6 @@
 # Color-Flipper-
 
-*- A project from John Smilga's Javascript course.
+* A project from John Smilga's Javascript course.
 
 Praticing DOM manipulation with the simple color flipping project, encorporates both standard RGB color format aswell as the hexidecimal option. 
 
